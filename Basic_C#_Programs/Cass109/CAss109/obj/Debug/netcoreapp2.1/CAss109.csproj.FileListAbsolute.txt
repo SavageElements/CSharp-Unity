@@ -1,0 +1,4 @@
+C:\Users\jrs\Source\Repos\CSharp-Unity\Basic_C#_Programs\Cass109\CAss109\obj\Debug\netcoreapp2.1\CAss109.csprojAssemblyReference.cache
+C:\Users\jrs\Source\Repos\CSharp-Unity\Basic_C#_Programs\Cass109\CAss109\obj\Debug\netcoreapp2.1\CAss109.csproj.CoreCompileInputs.cache
+C:\Users\jrs\Source\Repos\CSharp-Unity\Basic_C#_Programs\Cass109\CAss109\obj\Debug\netcoreapp2.1\CAss109.AssemblyInfoInputs.cache
+C:\Users\jrs\Source\Repos\CSharp-Unity\Basic_C#_Programs\Cass109\CAss109\obj\Debug\netcoreapp2.1\CAss109.AssemblyInfo.cs

@@ -1,0 +1,7 @@
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\myConsoleProjects\myConsoleProjects\obj\Debug\myConsoleProjects.csprojAssemblyReference.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\myConsoleProjects\myConsoleProjects\obj\Debug\myConsoleProjects.csproj.CoreCompileInputs.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\myConsoleProjects\myConsoleProjects\bin\Debug\myConsoleProjects.exe.config
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\myConsoleProjects\myConsoleProjects\bin\Debug\myConsoleProjects.exe
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\myConsoleProjects\myConsoleProjects\bin\Debug\myConsoleProjects.pdb
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\myConsoleProjects\myConsoleProjects\obj\Debug\myConsoleProjects.exe
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\myConsoleProjects\myConsoleProjects\obj\Debug\myConsoleProjects.pdb

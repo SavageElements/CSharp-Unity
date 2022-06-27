@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 
 namespace VariablesAndDataTypes
- {
-     class Program
-     {
-         static void Main()
+{
+    class Program
+    {
+        static void Main()
         {
             Console.WriteLine("The Tech Academy.");
             Console.ReadLine();
@@ -44,7 +44,7 @@ namespace VariablesAndDataTypes
             Console.ReadLine();
         }
 
-     }
+    }
 
 
- }
+}
