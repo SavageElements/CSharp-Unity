@@ -1,0 +1,11 @@
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\bin\Debug\netcoreapp2.1\Assign130.deps.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\bin\Debug\netcoreapp2.1\Assign130.runtimeconfig.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\bin\Debug\netcoreapp2.1\Assign130.runtimeconfig.dev.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\bin\Debug\netcoreapp2.1\Assign130.dll
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\bin\Debug\netcoreapp2.1\Assign130.pdb
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\obj\Debug\netcoreapp2.1\Assign130.csproj.CoreCompileInputs.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\obj\Debug\netcoreapp2.1\Assign130.AssemblyInfoInputs.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\obj\Debug\netcoreapp2.1\Assign130.AssemblyInfo.cs
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\obj\Debug\netcoreapp2.1\Assign130.dll
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\obj\Debug\netcoreapp2.1\Assign130.pdb
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\Assign130\Assign130\obj\Debug\netcoreapp2.1\Assign130.csprojAssemblyReference.cache
