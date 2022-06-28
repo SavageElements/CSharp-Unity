@@ -1,0 +1,11 @@
+C:\Users\jrs\source\repos\Assign142\Assign142\obj\Debug\netcoreapp2.1\Assign142.csproj.CoreCompileInputs.cache
+C:\Users\jrs\source\repos\Assign142\Assign142\obj\Debug\netcoreapp2.1\Assign142.AssemblyInfoInputs.cache
+C:\Users\jrs\source\repos\Assign142\Assign142\obj\Debug\netcoreapp2.1\Assign142.AssemblyInfo.cs
+C:\Users\jrs\source\repos\Assign142\Assign142\obj\Debug\netcoreapp2.1\Assign142.csprojAssemblyReference.cache
+C:\Users\jrs\source\repos\Assign142\Assign142\bin\Debug\netcoreapp2.1\Assign142.deps.json
+C:\Users\jrs\source\repos\Assign142\Assign142\bin\Debug\netcoreapp2.1\Assign142.runtimeconfig.json
+C:\Users\jrs\source\repos\Assign142\Assign142\bin\Debug\netcoreapp2.1\Assign142.runtimeconfig.dev.json
+C:\Users\jrs\source\repos\Assign142\Assign142\bin\Debug\netcoreapp2.1\Assign142.dll
+C:\Users\jrs\source\repos\Assign142\Assign142\bin\Debug\netcoreapp2.1\Assign142.pdb
+C:\Users\jrs\source\repos\Assign142\Assign142\obj\Debug\netcoreapp2.1\Assign142.dll
+C:\Users\jrs\source\repos\Assign142\Assign142\obj\Debug\netcoreapp2.1\Assign142.pdb
