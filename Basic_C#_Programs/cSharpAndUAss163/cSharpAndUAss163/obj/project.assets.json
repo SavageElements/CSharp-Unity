@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\Assign142\\Assign142\\Assign142.csproj",
-      "projectName": "Assign142",
-      "projectPath": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\Assign142\\Assign142\\Assign142.csproj",
+      "projectUniqueName": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\cSharpAndUAss163\\cSharpAndUAss163\\cSharpAndUAss163.csproj",
+      "projectName": "cSharpAndUAss163",
+      "projectPath": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\cSharpAndUAss163\\cSharpAndUAss163\\cSharpAndUAss163.csproj",
       "packagesPath": "C:\\Users\\jrs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\Assign142\\Assign142\\obj\\",
+      "outputPath": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\cSharpAndUAss163\\cSharpAndUAss163\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",

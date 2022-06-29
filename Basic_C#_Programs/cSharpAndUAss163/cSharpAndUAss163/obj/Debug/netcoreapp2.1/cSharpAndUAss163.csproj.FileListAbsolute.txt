@@ -1,0 +1,10 @@
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\obj\Debug\netcoreapp2.1\cSharpAndUAss163.csproj.CoreCompileInputs.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\obj\Debug\netcoreapp2.1\cSharpAndUAss163.AssemblyInfoInputs.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\obj\Debug\netcoreapp2.1\cSharpAndUAss163.AssemblyInfo.cs
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\bin\Debug\netcoreapp2.1\cSharpAndUAss163.deps.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\bin\Debug\netcoreapp2.1\cSharpAndUAss163.runtimeconfig.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\bin\Debug\netcoreapp2.1\cSharpAndUAss163.runtimeconfig.dev.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\bin\Debug\netcoreapp2.1\cSharpAndUAss163.dll
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\bin\Debug\netcoreapp2.1\cSharpAndUAss163.pdb
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\obj\Debug\netcoreapp2.1\cSharpAndUAss163.dll
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\obj\Debug\netcoreapp2.1\cSharpAndUAss163.pdb

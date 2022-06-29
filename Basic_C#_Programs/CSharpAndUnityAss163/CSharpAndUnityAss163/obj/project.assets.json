@@ -8,29 +8,37 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/savageelements/.nuget/packages/": {}
+    "C:\\Users\\jrs\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/savageelements/Projects/CSharpAndUnityAss163/CSharpAndUnityAss163/CSharpAndUnityAss163.csproj",
+      "projectUniqueName": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\CSharpAndUnityAss163\\CSharpAndUnityAss163\\CSharpAndUnityAss163.csproj",
       "projectName": "CSharpAndUnityAss163",
-      "projectPath": "/Users/savageelements/Projects/CSharpAndUnityAss163/CSharpAndUnityAss163/CSharpAndUnityAss163.csproj",
-      "packagesPath": "/Users/savageelements/.nuget/packages/",
-      "outputPath": "/Users/savageelements/Projects/CSharpAndUnityAss163/CSharpAndUnityAss163/obj/",
+      "projectPath": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\CSharpAndUnityAss163\\CSharpAndUnityAss163\\CSharpAndUnityAss163.csproj",
+      "packagesPath": "C:\\Users\\jrs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jrs\\source\\repos\\CSharp-Unity\\Basic_C#_Programs\\CSharpAndUnityAss163\\CSharpAndUnityAss163\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/savageelements/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jrs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -42,23 +50,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
