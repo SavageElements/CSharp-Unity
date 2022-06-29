@@ -1,0 +1,11 @@
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\bin\Debug\netcoreapp2.1\CsharpUnityAss171.deps.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\bin\Debug\netcoreapp2.1\CsharpUnityAss171.runtimeconfig.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\bin\Debug\netcoreapp2.1\CsharpUnityAss171.runtimeconfig.dev.json
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\bin\Debug\netcoreapp2.1\CsharpUnityAss171.dll
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\bin\Debug\netcoreapp2.1\CsharpUnityAss171.pdb
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\obj\Debug\netcoreapp2.1\CsharpUnityAss171.csprojAssemblyReference.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\obj\Debug\netcoreapp2.1\CsharpUnityAss171.csproj.CoreCompileInputs.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\obj\Debug\netcoreapp2.1\CsharpUnityAss171.AssemblyInfoInputs.cache
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\obj\Debug\netcoreapp2.1\CsharpUnityAss171.AssemblyInfo.cs
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\obj\Debug\netcoreapp2.1\CsharpUnityAss171.dll
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\CsharpUnityAss171\CsharpUnityAss171\obj\Debug\netcoreapp2.1\CsharpUnityAss171.pdb
