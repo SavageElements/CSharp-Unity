@@ -1,0 +1,5 @@
+/Users/savageelements/Projects/CSharpAndUnityAss163/CSharpAndUnityAss163/obj/Release/netcoreapp3.1/CSharpAndUnityAss163.csproj.AssemblyReference.cache
+/Users/savageelements/Projects/CSharpAndUnityAss163/CSharpAndUnityAss163/obj/Release/netcoreapp3.1/CSharpAndUnityAss163.GeneratedMSBuildEditorConfig.editorconfig
+/Users/savageelements/Projects/CSharpAndUnityAss163/CSharpAndUnityAss163/obj/Release/netcoreapp3.1/CSharpAndUnityAss163.AssemblyInfoInputs.cache
+/Users/savageelements/Projects/CSharpAndUnityAss163/CSharpAndUnityAss163/obj/Release/netcoreapp3.1/CSharpAndUnityAss163.AssemblyInfo.cs
+/Users/savageelements/Projects/CSharpAndUnityAss163/CSharpAndUnityAss163/obj/Release/netcoreapp3.1/CSharpAndUnityAss163.csproj.CoreCompileInputs.cache
