@@ -8,3 +8,4 @@ C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharp
 C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\bin\Debug\netcoreapp2.1\cSharpAndUAss163.pdb
 C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\obj\Debug\netcoreapp2.1\cSharpAndUAss163.dll
 C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\obj\Debug\netcoreapp2.1\cSharpAndUAss163.pdb
+C:\Users\jrs\source\repos\CSharp-Unity\Basic_C#_Programs\cSharpAndUAss163\cSharpAndUAss163\obj\Debug\netcoreapp2.1\cSharpAndUAss163.csprojAssemblyReference.cache

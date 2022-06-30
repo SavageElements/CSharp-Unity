@@ -51,9 +51,10 @@ namespace cSharpAndUAss163
                 }
                 else if (pacSize < maxSize)
                 {
-                    decimal amountDue = ((pWidth * pHeight * pLength) / 100);
+                    decimal amountDue = ((pWidth * pHeight * pLength) * weight / 100);
 
                     Console.WriteLine("Stupendous! For your package that has... \n" +
+                        "A Weight of " + weight + "\n" +
                         "A Height of " + pHeight + " Standard units of measure, \n" +
                         "A Width of " + pWidth + " Standard units of measure and \n" +
                         "A Length of " + pLength + " Standard units of measure. \n" +
