@@ -1,53 +1,89 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace Assign130
+namespace CandUAss182
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ANONYMOUS INCOME COMPARISON PROGRAM");
-            Console.ReadLine();
+            bool isInvalidSelection = true;
 
-            Console.WriteLine("Employee 1 Info");
-            Console.ReadLine();
+            string[] arrayOne = { "Chardonnay", "Pinot Gris", "Viogner", "Reisling", "Gruner Veltliner" };
 
+            do
+            {
+                Console.WriteLine("We have five white wines available. Please choose one of the wines from the list. (numbers 1-5)");
+                int indexOne = Convert.ToInt16(Console.ReadLine());
+                int indexFinal = (indexOne - 1);
 
-            Console.WriteLine("Enter Hourly Rate for Employee 1?");
-            String EM1WageS = Console.ReadLine();
-            decimal EM1Wage = Convert.ToDecimal(EM1WageS);
+                if (indexFinal >= 0 && indexFinal <= 4)
+                {
+                    Console.WriteLine("You have chosen " + arrayOne[indexFinal]);
+                    isInvalidSelection = false;
+                    break;
+                }
+                else if (indexFinal < 0 || indexFinal >= 5)
+                {
+                    Console.WriteLine("Please choose one of the wines from the list. (numbers 1-5)");
+                }
 
+            } while (isInvalidSelection == true);
 
-            Console.WriteLine("Enter the hours worked per week for Employee 1?");
-            String EM1HourS = Console.ReadLine();
-            decimal EM1Hour = (Convert.ToDecimal(EM1HourS));
+            Console.WriteLine("Excellent, how many glasses would you like?");
 
+            int[] arrayTwo = { 1, 2, 3, 4, 5 };
 
-            Console.WriteLine("Enter Hourly Rate for Employee 2?");
-            String EM2WageS = Console.ReadLine();
-            decimal EM2Wage = Convert.ToDecimal(EM2WageS);
+            bool isInvalidSelection2 = true;
 
+            do
+            {
+                Console.WriteLine("How many glasses would you like? (How many in your party? 1-5?)");
+                int indexTwo = Convert.ToInt16(Console.ReadLine());
+                int indexFinal2 = (indexTwo - 1);
 
-            Console.WriteLine("Enter the hours worked per week for Employee 2?");
-            String EM2HourS = Console.ReadLine();
-            decimal EM2Hour = (Convert.ToDecimal(EM2HourS));
+                if (indexFinal2 >= 0 && indexFinal2 <= 4)
+                {
+                    Console.WriteLine("I will bring out " + arrayTwo[indexFinal2] + " glasses.");
+                    isInvalidSelection2 = false;
+                    break;
+                }
+                else if (indexFinal2 < 0 || indexFinal2 >= 5)
+                {
+                    Console.WriteLine("Im sorry, You would need to purchase another bottle for that amount. How many in your party? 1-5?");
+                }
 
-            decimal EM1AnnualSal = (EM1Wage * EM1Hour * 52);
-            decimal EM2AnnualSal = (EM2Wage * EM2Hour * 52);
+            } while (isInvalidSelection2 == true);
 
+            Console.WriteLine("Perfect, lets move on to red wines.");
 
-            Console.WriteLine("Annual Salary for Employee 1 is " + EM1AnnualSal);
-            Console.ReadLine();
+            List<string> intlist = new List<string>();
+            intlist.Add("Bordeaux");
+            intlist.Add("Tempranillo");
+            intlist.Add("Malbec");
+            intlist.Add("Merlot");
+            intlist.Add("Zinfandel");
 
+            bool isInvalidSelection3 = true;
 
-            Console.WriteLine("Annual Salary for Employee 2 is " + EM2AnnualSal);
-            Console.ReadLine();
+            do
+            {
+                Console.WriteLine("We have five red wines available. Please choose one of the wines from the list. (numbers 1-5)");
+                int indexThree = Convert.ToInt16(Console.ReadLine());
+                int indexFinal3 = (indexThree - 1);
 
-            Console.WriteLine("Does Employee 1 make more money anually than Employee 2?");
-            Console.WriteLine(EM1AnnualSal > EM2AnnualSal);
+                if (indexFinal3 >= 0 && indexFinal3 <= 4)
+                {
+                    Console.WriteLine("You have chosen " + intlist[indexFinal3]);
+                    isInvalidSelection3 = false;
+                    break;
+                }
+                else if (indexFinal3 < 0 || indexFinal3 >= 5)
+                {
+                    Console.WriteLine("Please choose one of the wines from the list. (numbers 1-5)");
+                }
 
-
-
+            } while (isInvalidSelection3 == true);
 
         }
     }
