@@ -6,6 +6,20 @@ namespace CsharpUnityAss171
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("how many guests in your party?");
+            int guestList = Convert.ToInt16(Console.ReadLine());
+            int gList = 1;
+
+            Console.WriteLine("Please wait while we get a place ready for each Guest.");
+
+            do
+            {
+                Console.WriteLine("We have a place ready for a guest.");
+                gList++;
+
+            } while (gList <= guestList);
+
+
             Console.WriteLine("Pick a Wine, any wine!!!");
             Console.WriteLine("Type ' wineList ' to see the list of avaialble wines.");
             string wine = Console.ReadLine();
@@ -55,7 +69,7 @@ namespace CsharpUnityAss171
                         break;
 
                     case "Zinfandel":
-                        Console.WriteLine("Excellent Choice! I shall bring a bottle tot he table!");
+                        Console.WriteLine("Excellent Choice! I shall bring a bottle to the table!");
                         guessWine = true;
                         break;
 
