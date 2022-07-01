@@ -12,12 +12,11 @@ namespace CsharpUnityAss171
 
             Console.WriteLine("Please wait while we get a place ready for each Guest.");
 
-            do
+            while (gList <= guestList)
             {
                 Console.WriteLine("We have a place ready for a guest.");
                 gList++;
-
-            } while (gList <= guestList);
+            } 
 
 
             Console.WriteLine("Pick a Wine, any wine!!!");
